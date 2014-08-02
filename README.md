@@ -1,4 +1,4 @@
-PHPScrapping
+PHPScraper
 ============
 
-A simple php scrapper for news in different countries
+A simple php scraper for news in different countries.

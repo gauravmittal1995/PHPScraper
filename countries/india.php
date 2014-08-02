@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Website: timesofindia.indiatimes/home/headlines
+ * Website: timesofindia.indiatimes.com/home/headlines
  */
 
 ?>
